@@ -1,5 +1,5 @@
  <div align="center">
-  <img src="https://raw.githubusercontent.com/ZMHAdvisors/.github/main/Vantage%20ZMH-01.png" alt="Vantage by ZMH Advisors logo" width="320" />
+  <img src="./Vantage%20ZMH-01.png" alt="Vantage by ZMH Advisors" width="320">
 
   <h1>Vantage by ZMH Advisors</h1>
 
